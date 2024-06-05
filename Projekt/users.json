@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Antonio Zeko",
+      "email": "azeko@tvz.hr",
+      "age": 20,
+      "role": "designer"
+    },
+    {
+      "name": "Elon Musk",
+      "email": "emusk@gmal.com",
+      "age": 34,
+      "role": "administrator"
+    },
+    {
+      "name": "Steve Jobs",
+      "email": "sjobs@gmail.com",
+      "age": 45,
+      "role": "enginner"
+    }
+  ]
+}

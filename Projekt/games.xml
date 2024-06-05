@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+  <game>
+    <id>1</id>
+    <name>The Legend of Zelda: Breath of the Wild</name>
+    <releaseDate>2017-03-03</releaseDate>
+    <ratings>9.5</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>2</id>
+    <name>The Witcher 3: Wild Hunt</name>
+    <releaseDate>2015-05-19</releaseDate>
+    <ratings>9.8</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>3</id>
+    <name>Red Dead Redemption 2</name>
+    <releaseDate>2018-10-26</releaseDate>
+    <ratings>9.7</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>4</id>
+    <name>Grand Theft Auto V</name>
+    <releaseDate>2013-09-17</releaseDate>
+    <ratings>9.6</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>5</id>
+    <name>The Elder Scrolls V: Skyrim</name>
+    <releaseDate>2011-11-11</releaseDate>
+    <ratings>9.3</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>6</id>
+    <name>Dark Souls III</name>
+    <releaseDate>2016-04-12</releaseDate>
+    <ratings>9.0</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>7</id>
+    <name>Bloodborne</name>
+    <releaseDate>2015-03-24</releaseDate>
+    <ratings>9.1</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>8</id>
+    <name>Halo 5: Guardians</name>
+    <releaseDate>2015-10-27</releaseDate>
+    <ratings>8.5</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>9</id>
+    <name>Uncharted 4: A Thief's End</name>
+    <releaseDate>2016-05-10</releaseDate>
+    <ratings>9.4</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>10</id>
+    <name>God of War (2018)</name>
+    <releaseDate>2018-04-20</releaseDate>
+    <ratings>9.6</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>11</id>
+    <name>Horizon Zero Dawn</name>
+    <releaseDate>2017-02-28</releaseDate>
+    <ratings>9.2</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>12</id>
+    <name>Persona 5</name>
+    <releaseDate>2017-04-04</releaseDate>
+    <ratings>9.3</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>13</id>
+    <name>Final Fantasy VII Remake</name>
+    <releaseDate>2020-04-10</releaseDate>
+    <ratings>9.3</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>14</id>
+    <name>Resident Evil 2</name>
+    <releaseDate>2019-01-25</releaseDate>
+    <ratings>9.0</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>15</id>
+    <name>Death Stranding</name>
+    <releaseDate>2019-11-08</releaseDate>
+    <ratings>8.8</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>16</id>
+    <name>Ghost of Tsushima</name>
+    <releaseDate>2020-07-17</releaseDate>
+    <ratings>9.2</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>17</id>
+    <name>The Last of Us Part II</name>
+    <releaseDate>2020-06-19</releaseDate>
+    <ratings>9.6</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>18</id>
+    <name>Cyberpunk 2077</name>
+    <releaseDate>2020-12-10</releaseDate>
+    <ratings>6.9</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>19</id>
+    <name>Assassin's Creed Valhalla</name>
+    <releaseDate>2020-11-10</releaseDate>
+    <ratings>8.2</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>20</id>
+    <name>Demon's Souls (2020)</name>
+    <releaseDate>2020-11-12</releaseDate>
+    <ratings>9.2</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>21</id>
+    <name>FIFA 21</name>
+    <releaseDate>2020-10-09</releaseDate>
+    <ratings>7.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>22</id>
+    <name>Mortal Kombat 11</name>
+    <releaseDate>2019-04-23</releaseDate>
+    <ratings>8.5</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>23</id>
+    <name>Call of Duty: Modern Warfare</name>
+    <releaseDate>2019-10-25</releaseDate>
+    <ratings>8.3</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>24</id>
+    <name>Call of Duty: Warzone</name>
+    <releaseDate>2020-03-10</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>25</id>
+    <name>Apex Legends</name>
+    <releaseDate>2019-02-04</releaseDate>
+    <ratings>8.9</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>26</id>
+    <name>Fortnite</name>
+    <releaseDate>2017-07-25</releaseDate>
+    <ratings>8.6</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>27</id>
+    <name>Valorant</name>
+    <releaseDate>2020-06-02</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>28</id>
+    <name>Among Us</name>
+    <releaseDate>2018-06-15</releaseDate>
+    <ratings>8.3</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>29</id>
+    <name>Genshin Impact</name>
+    <releaseDate>2020-09-28</releaseDate>
+    <ratings>8.4</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>30</id>
+    <name>Hades</name>
+    <releaseDate>2020-09-17</releaseDate>
+    <ratings>9.0</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>31</id>
+    <name>DOOM Eternal</name>
+    <releaseDate>2020-03-20</releaseDate>
+    <ratings>8.8</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>32</id>
+    <name>Marvel's Spider-Man: Miles Morales</name>
+    <releaseDate>2020-11-12</releaseDate>
+    <ratings>8.9</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>33</id>
+    <name>Sackboy: A Big Adventure</name>
+    <releaseDate>2020-11-12</releaseDate>
+    <ratings>8.6</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>34</id>
+    <name>Animal Crossing: New Horizons</name>
+    <releaseDate>2020-03-20</releaseDate>
+    <ratings>9.5</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>35</id>
+    <name>Half-Life: Alyx</name>
+    <releaseDate>2020-03-23</releaseDate>
+    <ratings>9.3</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>36</id>
+    <name>Microsoft Flight Simulator</name>
+    <releaseDate>2020-08-18</releaseDate>
+    <ratings>9.1</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>37</id>
+    <name>Fall Guys: Ultimate Knockout</name>
+    <releaseDate>2020-08-04</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>38</id>
+    <name>Phasmophobia</name>
+    <releaseDate>2020-09-18</releaseDate>
+    <ratings>8.4</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>39</id>
+    <name>Crusader Kings III</name>
+    <releaseDate>2020-09-01</releaseDate>
+    <ratings>9.0</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>40</id>
+    <name>Mount and Blade II: Bannerlord</name>
+    <releaseDate>2020-03-30</releaseDate>
+    <ratings>8.8</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>41</id>
+    <name>Ghostrunner</name>
+    <releaseDate>2020-10-27</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>42</id>
+    <name>Valorant</name>
+    <releaseDate>2020-06-02</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>43</id>
+    <name>Microsoft Flight Simulator</name>
+    <releaseDate>2020-08-18</releaseDate>
+    <ratings>9.1</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>44</id>
+    <name>The Last of Us Part II</name>
+    <releaseDate>2020-06-19</releaseDate>
+    <ratings>9.6</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>45</id>
+    <name>Fall Guys: Ultimate Knockout</name>
+    <releaseDate>2020-08-04</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>46</id>
+    <name>Phasmophobia</name>
+    <releaseDate>2020-09-18</releaseDate>
+    <ratings>8.4</ratings>
+    <crossplay>Yes</crossplay>
+  </game>
+  <game>
+    <id>47</id>
+    <name>Crusader Kings III</name>
+    <releaseDate>2020-09-01</releaseDate>
+    <ratings>9.0</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>48</id>
+    <name>Mount  Blade II: Bannerlord</name>
+    <releaseDate>2020-03-30</releaseDate>
+    <ratings>8.8</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>49</id>
+    <name>Ghostrunner</name>
+    <releaseDate>2020-10-27</releaseDate>
+    <ratings>8.7</ratings>
+    <crossplay>No</crossplay>
+  </game>
+  <game>
+    <id>50</id>
+    <name>Immortals Fenyx Rising</name>
+    <releaseDate>2020-12-03</releaseDate>
+    <ratings>8.9</ratings>
+    <crossplay>No</crossplay>
+  </game>
+</games>
