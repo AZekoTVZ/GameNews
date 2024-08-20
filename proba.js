@@ -9,6 +9,5 @@ class Proba{
         console.log("GithubDesktop povezan!💪");
     }
 }
-const p1 = new Proba("Zeko");
-p1.Pozdrav();
+const p1 = new Proba("Zeko"); p1.Pozdrav();
 const p2 = new Proba("Marin");
