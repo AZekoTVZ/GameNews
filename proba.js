@@ -3,9 +3,11 @@ class Proba{
         this.ime = ime;
     }
     Pozdrav(){
-        console.log(`Hello there ${ime}`);
+        console.log(`Hello there ${this.ime}!`);
     }
     GithubDesktop(){
         console.log("GithubDesktop povezan!💪");
     }
 }
+const p1 = new Proba("Zeko");
+p1.Pozdrav();
