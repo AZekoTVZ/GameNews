@@ -1,2 +1,4 @@
 Projekt za NTP
-hello there
+
+
+danke
