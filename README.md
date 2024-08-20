@@ -1,3 +1,3 @@
 Projekt za NTP
-
-danke
+hello there
+no
