@@ -11,3 +11,4 @@ class Proba{
 }
 const p1 = new Proba("Zeko");
 p1.Pozdrav();
+const p2 = new Proba("Marin");
