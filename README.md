@@ -1,4 +1,2 @@
 Projekt za NTP
-
-
 danke
